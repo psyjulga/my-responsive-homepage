@@ -4,6 +4,12 @@
   --secondary-color: rgba(180, 39, 39, 0.548);
 }
 
+.fix-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 h1,
 h2,
 h3,
