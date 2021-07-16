@@ -118,3 +118,19 @@ button:hover {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 55px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+  .app-p {
+    width: 100%;
+  }
+  .app-link {
+    display: block;
+    text-align: center;
+  }
+}
